@@ -1,0 +1,45 @@
+---
+import penguins from "../../assets/penguins.json";
+export const prerender = false;
+import Layout from "../../layouts/Layout.astro";
+import PlotFigure from "../../components/PlotFigure.astro";
+import * as Plot from "@observablehq/plot";
+
+const { species } = Astro.params;
+
+// Filtre les manchots pour l'espèce reçue dans l'URL.
+const filteredPenguins = penguins.filter((penguin) => penguin.species === species);
+
+if (filteredPenguins.length === 0) {
+  Astro.response.status = 404;
+}
+
+const plotOptions = {
+  grid: true,
+  marks: [
+    Plot.dot(filteredPenguins, {
+      x: "culmen_length_mm",
+      y: "culmen_depth_mm",
+      fill: "steelblue",
+      r: 4,
+      fillOpacity: 0.7,
+    }),
+  ],
+  x: { label: "Longueur du bec (mm)" },
+  y: { label: "Profondeur du bec (mm)" },
+  title: `Manchots ${species}`,
+};
+---
+
+<Layout>
+  <main class="p-6">
+    <h1 class="mb-4 text-2xl">Manchots de l'espèce {species}</h1>
+    <p class="mb-4">{filteredPenguins.length} manchot(s) trouvé(s).</p>
+    {filteredPenguins.length > 0 ? (
+      <PlotFigure options={plotOptions} />
+    ) : (
+      <p>Cette espèce n'existe pas dans les données.</p>
+    )}
+    <p class="mt-6"><a class="text-blue-700 underline" href="/rendu-dynamique/">Retour aux espèces</a></p>
+  </main>
+</Layout>
