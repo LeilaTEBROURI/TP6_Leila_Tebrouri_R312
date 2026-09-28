@@ -3,19 +3,45 @@ import PlotFigure from "../components/PlotFigure.astro";
 import Layout from "../layouts/Layout.astro";
 import * as Plot from "@observablehq/plot";
 import penguins from "../assets/penguins.json";
+
+// Récupère les espèces, sans doublons, à partir des données.
+const species = [...new Set(penguins.map((penguin) => penguin.species))];
 ---
 
 <Layout>
-  <h1 class="text-2xl">Test Astro et Plot (Observablehq)</h1>
-  <PlotFigure
-    options={{
-      marks: [
-        Plot.dot(penguins, {
-          x: "culmen_length_mm",
-          y: "culmen_depth_mm",
-          stroke: "species",
-        }),
-      ],
-    }}
-  />
+  <main>
+    <h1>Les penguins par espèce</h1>
+    <nav aria-label="Choisir une espèce">
+      {species.map((name) => <a href={`#${name}`}>{name}</a>)}
+    </nav>
+
+    <div class="slider" tabindex="0" role="region" aria-label="Graphiques des espèces">
+      {species.map((name) => (
+        <section id={name} aria-label={`Graphique ${name}`}>
+          <h2>{name}</h2>
+          <PlotFigure options={{
+            color: { domain: species },
+            marks: [
+              Plot.dot(penguins.filter((penguin) => penguin.species === name), {
+                x: "culmen_length_mm",
+                y: "culmen_depth_mm",
+                stroke: "species",
+              }),
+            ],
+          }} />
+        </section>
+      ))}
+    </div>
+  </main>
 </Layout>
+
+<style>
+  main { max-width: 900px; margin: auto; padding: 24px; }
+  h1 { font-size: 28px; margin-bottom: 20px; }
+  h2 { font-size: 24px; margin-bottom: 16px; }
+  nav { display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 24px; }
+  a { color: #174ea6; text-decoration: underline; }
+  .slider { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; }
+  section { flex: 0 0 100%; min-width: 0; scroll-snap-align: start; padding: 16px; border: 1px solid #ccc; }
+  :focus-visible { outline: 3px solid #174ea6; outline-offset: 3px; }
+</style>
