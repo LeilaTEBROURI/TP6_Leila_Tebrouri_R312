@@ -1,0 +1,18 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import penguins from "../../assets/penguins.json";
+
+const species = [...new Set(penguins.map((penguin) => penguin.species))];
+---
+
+<Layout>
+  <main class="p-6">
+    <h1 class="mb-4 text-2xl">Penguins — rendu statique</h1>
+    <ul>
+      {species.map((name) => (
+        <li><a class="text-blue-700 underline" href={`/rendu-statique/${name}`}>{name}</a></li>
+      ))}
+    </ul>
+    <p class="mt-6"><a class="text-blue-700 underline" href="/">Retour au slider</a></p>
+  </main>
+</Layout>

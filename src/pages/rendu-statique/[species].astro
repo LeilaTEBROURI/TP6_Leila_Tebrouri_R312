@@ -1,0 +1,42 @@
+---
+import penguins from "../../assets/penguins.json";
+import Layout from "../../layouts/Layout.astro";
+import PlotFigure from "../../components/PlotFigure.astro";
+import * as Plot from "@observablehq/plot";
+
+// Génère une page pour chaque espèce au moment de la compilation.
+export function getStaticPaths() {
+  const species = [...new Set(penguins.map((penguin) => penguin.species))];
+  return species.map((name) => ({ params: { species: name } }));
+}
+
+const { species } = Astro.params;
+
+// Filtre les manchots pour l'espèce reçue dans l'URL.
+const filteredPenguins = penguins.filter((penguin) => penguin.species === species);
+
+const plotOptions = {
+  grid: true,
+  marks: [
+    Plot.dot(filteredPenguins, {
+      x: "culmen_length_mm",
+      y: "culmen_depth_mm",
+      fill: "steelblue",
+      r: 4,
+      fillOpacity: 0.7,
+    }),
+  ],
+  x: { label: "Longueur du bec (mm)" },
+  y: { label: "Profondeur du bec (mm)" },
+  title: `Manchots ${species}`,
+};
+---
+
+<Layout>
+  <main class="p-6">
+    <h1 class="mb-4 text-2xl">Manchots de l'espèce {species}</h1>
+    <p class="mb-4">{filteredPenguins.length} manchot(s) trouvé(s).</p>
+    <PlotFigure options={plotOptions} />
+    <p class="mt-6"><a class="text-blue-700 underline" href="/rendu-statique/">Retour aux espèces</a></p>
+  </main>
+</Layout>
