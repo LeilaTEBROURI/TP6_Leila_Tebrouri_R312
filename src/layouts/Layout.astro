@@ -1,26 +1,33 @@
 ---
 import "../styles/global.css";
+const path = Astro.url.pathname;
+const links = [
+  { href: "/", label: "Slider", active: path === "/" },
+  { href: "/rendu-dynamique/", label: "Rendu dynamique", active: path.startsWith("/rendu-dynamique") },
+  { href: "/rendu-statique/", label: "Rendu statique", active: path.startsWith("/rendu-statique") },
+];
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
+    <meta name="theme-color" content="#061724" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Astro Basics</title>
+    <title>TP6 — Palmer Penguins</title>
   </head>
   <body>
+    <a class="skip-link" href="#contenu">Aller au contenu</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="/"><span class="brand-icon">P.</span><span><strong>Palmer Penguins</strong><small>TP6 · Leila Tebrouri</small></span></a>
+        <nav aria-label="Navigation principale">
+          {links.map((link) => <a href={link.href} aria-current={link.active ? (path === link.href ? "page" : "location") : undefined}>{link.label}</a>)}
+        </nav>
+      </div>
+    </header>
     <slot />
+    <footer><p>TP_Dev_Front_integration</p><p>Leila_Tebrouri_MMI2_B1</p></footer>
   </body>
 </html>
-
-<style>
-  html,
-  body {
-    margin: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>

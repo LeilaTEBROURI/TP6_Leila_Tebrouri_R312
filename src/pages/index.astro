@@ -9,7 +9,8 @@ const species = [...new Set(penguins.map((penguin) => penguin.species))];
 ---
 
 <Layout>
-  <main>
+  <main id="contenu">
+    <p class="eyebrow">01 · Toutes les espèces</p>
     <h1>Les penguins par espèce</h1>
     <nav aria-label="Choisir une espèce">
       {species.map((name) => <a href={`#${name}`}>{name}</a>)}
@@ -20,7 +21,7 @@ const species = [...new Set(penguins.map((penguin) => penguin.species))];
         <section id={name} aria-label={`Graphique ${name}`}>
           <h2>{name}</h2>
           <PlotFigure options={{
-            color: { domain: species },
+            color: { domain: species, range: ["#67e0bd", "#8da9ff", "#ffca58"] },
             marks: [
               Plot.dot(penguins.filter((penguin) => penguin.species === name), {
                 x: "culmen_length_mm",
@@ -36,12 +37,8 @@ const species = [...new Set(penguins.map((penguin) => penguin.species))];
 </Layout>
 
 <style>
-  main { max-width: 900px; margin: auto; padding: 24px; }
-  h1 { font-size: 28px; margin-bottom: 20px; }
-  h2 { font-size: 24px; margin-bottom: 16px; }
-  nav { display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 24px; }
-  a { color: #174ea6; text-decoration: underline; }
   .slider { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; }
-  section { flex: 0 0 100%; min-width: 0; scroll-snap-align: start; padding: 16px; border: 1px solid #ccc; }
-  :focus-visible { outline: 3px solid #174ea6; outline-offset: 3px; }
+  section { flex: 0 0 100%; min-width: 0; scroll-snap-align: start; padding: 24px; border: 1px solid #29404b; border-radius: 16px; background: #0a2534; }
+  nav { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px; }
+  nav a { padding: 10px 18px; border: 1px solid #67e0bd; border-radius: 10px; }
 </style>
