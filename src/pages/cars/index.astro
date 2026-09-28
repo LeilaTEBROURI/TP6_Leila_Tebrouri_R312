@@ -1,0 +1,50 @@
+---
+import PlotFigure from "../../components/PlotFigure.astro";
+import Layout from "../../layouts/Layout.astro";
+import * as Plot from "@observablehq/plot";
+import cars from "../../assets/cars.json";
+
+// Récupère les nombres de cylindres, sans doublons, à partir des données.
+const cylinders = [...new Set(cars.map((car) => car.cylinders))].sort((a, b) => a - b);
+---
+
+<Layout>
+  <main id="contenu">
+    <nav aria-label="Affichage des voitures">
+      <a href="/cars/">Slider</a>
+      <a href="/cars/rendu-dynamique/">Rendu dynamique</a>
+      <a href="/cars/rendu-statique/">Rendu statique</a>
+    </nav>
+    <p class="eyebrow">01 · Toutes les voitures</p>
+    <h1>Les voitures par cylindres</h1>
+    <nav aria-label="Choisir un nombre de cylindres">
+      {cylinders.map((name) => <a href={`#cylindres-${name}`}>{name} cylindres</a>)}
+    </nav>
+
+    <div class="slider" tabindex="0" role="region" aria-label="Graphiques des voitures">
+      {cylinders.map((name) => (
+        <section id={`cylindres-${name}`} aria-label={`Voitures à ${name} cylindres`}>
+          <h2>{name} cylindres</h2>
+          <PlotFigure options={{
+            x: { label: "Poids (lb)" },
+            y: { label: "Puissance (hp)" },
+            marks: [
+              Plot.dot(cars.filter((car) => car.cylinders === name), {
+                x: "weight",
+                y: "power",
+                fill: "#67e0bd",
+              }),
+            ],
+          }} />
+        </section>
+      ))}
+    </div>
+  </main>
+</Layout>
+
+<style>
+  .slider { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; }
+  section { flex: 0 0 100%; min-width: 0; scroll-snap-align: start; padding: 24px; border: 1px solid #29404b; border-radius: 16px; background: #0a2534; }
+  nav { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px; }
+  nav a { padding: 10px 18px; border: 1px solid #67e0bd; border-radius: 10px; }
+</style>

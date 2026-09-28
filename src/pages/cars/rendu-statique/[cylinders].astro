@@ -1,0 +1,43 @@
+---
+import cars from "../../../assets/cars.json";
+import Layout from "../../../layouts/Layout.astro";
+import PlotFigure from "../../../components/PlotFigure.astro";
+import * as Plot from "@observablehq/plot";
+
+// Génère une page pour chaque nombre de cylindres au moment de la compilation.
+export function getStaticPaths() {
+  const cylinders = [...new Set(cars.map((car) => car.cylinders))].sort((a, b) => a - b);
+  return cylinders.map((name) => ({ params: { cylinders: name.toString() } }));
+}
+
+const { cylinders } = Astro.params;
+
+// Filtre les voitures pour le nombre de cylindres reçu dans l'URL.
+const filteredCars = cars.filter((car) => car.cylinders.toString() === cylinders);
+
+const plotOptions = {
+  grid: true,
+  marks: [
+    Plot.dot(filteredCars, {
+      x: "weight",
+      y: "power",
+      fill: "#67e0bd",
+      r: 4,
+      fillOpacity: 0.7,
+    }),
+  ],
+  x: { label: "Poids (lb)" },
+  y: { label: "Puissance (hp)" },
+  title: `Voitures à ${cylinders} cylindres`,
+};
+---
+
+<Layout>
+  <main id="contenu">
+    <p class="eyebrow">03 · Rendu statique</p>
+    <h1>Voitures à {cylinders} cylindres</h1>
+    <p class="mb-4">{filteredCars.length} voiture(s) trouvé(s).</p>
+    <PlotFigure options={plotOptions} />
+    <p class="mt-6"><a class="page-link" href="/cars/rendu-statique/">Retour aux cylindres</a></p>
+  </main>
+</Layout>

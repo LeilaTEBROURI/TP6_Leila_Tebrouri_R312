@@ -1,0 +1,46 @@
+---
+import cars from "../../../assets/cars.json";
+export const prerender = false;
+import Layout from "../../../layouts/Layout.astro";
+import PlotFigure from "../../../components/PlotFigure.astro";
+import * as Plot from "@observablehq/plot";
+
+const { cylinders } = Astro.params;
+
+// Filtre les voitures pour le nombre de cylindres reçu dans l'URL.
+const filteredCars = cars.filter((car) => car.cylinders.toString() === cylinders);
+
+if (filteredCars.length === 0) {
+  Astro.response.status = 404;
+}
+
+const plotOptions = {
+  grid: true,
+  marks: [
+    Plot.dot(filteredCars, {
+      x: "weight",
+      y: "power",
+      fill: "#67e0bd",
+      r: 4,
+      fillOpacity: 0.7,
+    }),
+  ],
+  x: { label: "Poids (lb)" },
+  y: { label: "Puissance (hp)" },
+  title: `Voitures à ${cylinders} cylindres`,
+};
+---
+
+<Layout>
+  <main id="contenu">
+    <p class="eyebrow">02 · Rendu dynamique</p>
+    <h1>Voitures à {cylinders} cylindres</h1>
+    <p class="mb-4">{filteredCars.length} voiture(s) trouvé(s).</p>
+    {filteredCars.length > 0 ? (
+      <PlotFigure options={plotOptions} />
+    ) : (
+      <p>Ce nombre de cylindres n'existe pas dans les données.</p>
+    )}
+    <p class="mt-6"><a class="page-link" href="/cars/rendu-dynamique/">Retour aux cylindres</a></p>
+  </main>
+</Layout>

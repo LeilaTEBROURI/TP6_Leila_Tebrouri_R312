@@ -8,7 +8,7 @@ const species = [...new Set(penguins.map((penguin) => penguin.species))];
 <Layout>
   <main id="contenu">
     <p class="eyebrow">02 · Rendu dynamique</p>
-    <h1 >Penguins — rendu dynamique</h1>
+    <h1>Penguins — rendu dynamique</h1>
     <ul>
       {species.map((name) => (
         <li><a class="page-link" href={`/rendu-dynamique/${name}`}>{name}</a></li>

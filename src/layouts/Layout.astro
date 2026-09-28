@@ -2,6 +2,7 @@
 import "../styles/global.css";
 const path = Astro.url.pathname;
 const links = [
+  { href: "/cars/", label: "Voitures", active: path.startsWith("/cars") },
   { href: "/", label: "Slider", active: path === "/" },
   { href: "/rendu-dynamique/", label: "Rendu dynamique", active: path.startsWith("/rendu-dynamique") },
   { href: "/rendu-statique/", label: "Rendu statique", active: path.startsWith("/rendu-statique") },

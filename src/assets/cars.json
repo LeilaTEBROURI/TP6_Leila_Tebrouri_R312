@@ -1,0 +1,2844 @@
+[
+  {
+    "model": "chevrolet chevelle malibu",
+    "cylinders": 8,
+    "weight": 3504,
+    "power": 130,
+    "year": 1970
+  },
+  {
+    "model": "buick skylark 320",
+    "cylinders": 8,
+    "weight": 3693,
+    "power": 165,
+    "year": 1970
+  },
+  {
+    "model": "plymouth satellite",
+    "cylinders": 8,
+    "weight": 3436,
+    "power": 150,
+    "year": 1970
+  },
+  {
+    "model": "amc rebel sst",
+    "cylinders": 8,
+    "weight": 3433,
+    "power": 150,
+    "year": 1970
+  },
+  {
+    "model": "ford torino",
+    "cylinders": 8,
+    "weight": 3449,
+    "power": 140,
+    "year": 1970
+  },
+  {
+    "model": "ford galaxie 500",
+    "cylinders": 8,
+    "weight": 4341,
+    "power": 198,
+    "year": 1970
+  },
+  {
+    "model": "chevrolet impala",
+    "cylinders": 8,
+    "weight": 4354,
+    "power": 220,
+    "year": 1970
+  },
+  {
+    "model": "plymouth fury iii",
+    "cylinders": 8,
+    "weight": 4312,
+    "power": 215,
+    "year": 1970
+  },
+  {
+    "model": "pontiac catalina",
+    "cylinders": 8,
+    "weight": 4425,
+    "power": 225,
+    "year": 1970
+  },
+  {
+    "model": "amc ambassador dpl",
+    "cylinders": 8,
+    "weight": 3850,
+    "power": 190,
+    "year": 1970
+  },
+  {
+    "model": "citroen ds-21 pallas",
+    "cylinders": 4,
+    "weight": 3090,
+    "power": 115,
+    "year": 1970
+  },
+  {
+    "model": "chevrolet chevelle concours (sw)",
+    "cylinders": 8,
+    "weight": 4142,
+    "power": 165,
+    "year": 1970
+  },
+  {
+    "model": "ford torino (sw)",
+    "cylinders": 8,
+    "weight": 4034,
+    "power": 153,
+    "year": 1970
+  },
+  {
+    "model": "plymouth satellite (sw)",
+    "cylinders": 8,
+    "weight": 4166,
+    "power": 175,
+    "year": 1970
+  },
+  {
+    "model": "amc rebel sst (sw)",
+    "cylinders": 8,
+    "weight": 3850,
+    "power": 175,
+    "year": 1970
+  },
+  {
+    "model": "dodge challenger se",
+    "cylinders": 8,
+    "weight": 3563,
+    "power": 170,
+    "year": 1970
+  },
+  {
+    "model": "plymouth 'cuda 340",
+    "cylinders": 8,
+    "weight": 3609,
+    "power": 160,
+    "year": 1970
+  },
+  {
+    "model": "ford mustang boss 302",
+    "cylinders": 8,
+    "weight": 3353,
+    "power": 140,
+    "year": 1970
+  },
+  {
+    "model": "chevrolet monte carlo",
+    "cylinders": 8,
+    "weight": 3761,
+    "power": 150,
+    "year": 1970
+  },
+  {
+    "model": "buick estate wagon (sw)",
+    "cylinders": 8,
+    "weight": 3086,
+    "power": 225,
+    "year": 1970
+  },
+  {
+    "model": "toyota corona mark ii",
+    "cylinders": 4,
+    "weight": 2372,
+    "power": 95,
+    "year": 1970
+  },
+  {
+    "model": "plymouth duster",
+    "cylinders": 6,
+    "weight": 2833,
+    "power": 95,
+    "year": 1970
+  },
+  {
+    "model": "amc hornet",
+    "cylinders": 6,
+    "weight": 2774,
+    "power": 97,
+    "year": 1970
+  },
+  {
+    "model": "ford maverick",
+    "cylinders": 6,
+    "weight": 2587,
+    "power": 85,
+    "year": 1970
+  },
+  {
+    "model": "datsun pl510",
+    "cylinders": 4,
+    "weight": 2130,
+    "power": 88,
+    "year": 1970
+  },
+  {
+    "model": "volkswagen 1131 deluxe sedan",
+    "cylinders": 4,
+    "weight": 1835,
+    "power": 46,
+    "year": 1970
+  },
+  {
+    "model": "peugeot 504",
+    "cylinders": 4,
+    "weight": 2672,
+    "power": 87,
+    "year": 1970
+  },
+  {
+    "model": "audi 100 ls",
+    "cylinders": 4,
+    "weight": 2430,
+    "power": 90,
+    "year": 1970
+  },
+  {
+    "model": "saab 99e",
+    "cylinders": 4,
+    "weight": 2375,
+    "power": 95,
+    "year": 1970
+  },
+  {
+    "model": "bmw 2002",
+    "cylinders": 4,
+    "weight": 2234,
+    "power": 113,
+    "year": 1970
+  },
+  {
+    "model": "amc gremlin",
+    "cylinders": 6,
+    "weight": 2648,
+    "power": 90,
+    "year": 1970
+  },
+  {
+    "model": "ford f250",
+    "cylinders": 8,
+    "weight": 4615,
+    "power": 215,
+    "year": 1970
+  },
+  {
+    "model": "chevy c20",
+    "cylinders": 8,
+    "weight": 4376,
+    "power": 200,
+    "year": 1970
+  },
+  {
+    "model": "dodge d200",
+    "cylinders": 8,
+    "weight": 4382,
+    "power": 210,
+    "year": 1970
+  },
+  {
+    "model": "hi 1200d",
+    "cylinders": 8,
+    "weight": 4732,
+    "power": 193,
+    "year": 1970
+  },
+  {
+    "model": "datsun pl510",
+    "cylinders": 4,
+    "weight": 2130,
+    "power": 88,
+    "year": 1971
+  },
+  {
+    "model": "chevrolet vega 2300",
+    "cylinders": 4,
+    "weight": 2264,
+    "power": 90,
+    "year": 1971
+  },
+  {
+    "model": "toyota corona",
+    "cylinders": 4,
+    "weight": 2228,
+    "power": 95,
+    "year": 1971
+  },
+  {
+    "model": "ford pinto",
+    "cylinders": 4,
+    "weight": 2046,
+    "power": null,
+    "year": 1971
+  },
+  {
+    "model": "volkswagen super beetle 117",
+    "cylinders": 4,
+    "weight": 1978,
+    "power": 48,
+    "year": 1971
+  },
+  {
+    "model": "amc gremlin",
+    "cylinders": 6,
+    "weight": 2634,
+    "power": 100,
+    "year": 1971
+  },
+  {
+    "model": "plymouth satellite custom",
+    "cylinders": 6,
+    "weight": 3439,
+    "power": 105,
+    "year": 1971
+  },
+  {
+    "model": "chevrolet chevelle malibu",
+    "cylinders": 6,
+    "weight": 3329,
+    "power": 100,
+    "year": 1971
+  },
+  {
+    "model": "ford torino 500",
+    "cylinders": 6,
+    "weight": 3302,
+    "power": 88,
+    "year": 1971
+  },
+  {
+    "model": "amc matador",
+    "cylinders": 6,
+    "weight": 3288,
+    "power": 100,
+    "year": 1971
+  },
+  {
+    "model": "chevrolet impala",
+    "cylinders": 8,
+    "weight": 4209,
+    "power": 165,
+    "year": 1971
+  },
+  {
+    "model": "pontiac catalina brougham",
+    "cylinders": 8,
+    "weight": 4464,
+    "power": 175,
+    "year": 1971
+  },
+  {
+    "model": "ford galaxie 500",
+    "cylinders": 8,
+    "weight": 4154,
+    "power": 153,
+    "year": 1971
+  },
+  {
+    "model": "plymouth fury iii",
+    "cylinders": 8,
+    "weight": 4096,
+    "power": 150,
+    "year": 1971
+  },
+  {
+    "model": "dodge monaco (sw)",
+    "cylinders": 8,
+    "weight": 4955,
+    "power": 180,
+    "year": 1971
+  },
+  {
+    "model": "ford country squire (sw)",
+    "cylinders": 8,
+    "weight": 4746,
+    "power": 170,
+    "year": 1971
+  },
+  {
+    "model": "pontiac safari (sw)",
+    "cylinders": 8,
+    "weight": 5140,
+    "power": 175,
+    "year": 1971
+  },
+  {
+    "model": "amc hornet sportabout (sw)",
+    "cylinders": 6,
+    "weight": 2962,
+    "power": 110,
+    "year": 1971
+  },
+  {
+    "model": "chevrolet vega (sw)",
+    "cylinders": 4,
+    "weight": 2408,
+    "power": 72,
+    "year": 1971
+  },
+  {
+    "model": "pontiac firebird",
+    "cylinders": 6,
+    "weight": 3282,
+    "power": 100,
+    "year": 1971
+  },
+  {
+    "model": "ford mustang",
+    "cylinders": 6,
+    "weight": 3139,
+    "power": 88,
+    "year": 1971
+  },
+  {
+    "model": "mercury capri 2000",
+    "cylinders": 4,
+    "weight": 2220,
+    "power": 86,
+    "year": 1971
+  },
+  {
+    "model": "opel 1900",
+    "cylinders": 4,
+    "weight": 2123,
+    "power": 90,
+    "year": 1971
+  },
+  {
+    "model": "peugeot 304",
+    "cylinders": 4,
+    "weight": 2074,
+    "power": 70,
+    "year": 1971
+  },
+  {
+    "model": "fiat 124b",
+    "cylinders": 4,
+    "weight": 2065,
+    "power": 76,
+    "year": 1971
+  },
+  {
+    "model": "toyota corolla 1200",
+    "cylinders": 4,
+    "weight": 1773,
+    "power": 65,
+    "year": 1971
+  },
+  {
+    "model": "datsun 1200",
+    "cylinders": 4,
+    "weight": 1613,
+    "power": 69,
+    "year": 1971
+  },
+  {
+    "model": "volkswagen model 111",
+    "cylinders": 4,
+    "weight": 1834,
+    "power": 60,
+    "year": 1971
+  },
+  {
+    "model": "plymouth cricket",
+    "cylinders": 4,
+    "weight": 1955,
+    "power": 70,
+    "year": 1971
+  },
+  {
+    "model": "toyota corona hardtop",
+    "cylinders": 4,
+    "weight": 2278,
+    "power": 95,
+    "year": 1972
+  },
+  {
+    "model": "dodge colt hardtop",
+    "cylinders": 4,
+    "weight": 2126,
+    "power": 80,
+    "year": 1972
+  },
+  {
+    "model": "volkswagen type 3",
+    "cylinders": 4,
+    "weight": 2254,
+    "power": 54,
+    "year": 1972
+  },
+  {
+    "model": "chevrolet vega",
+    "cylinders": 4,
+    "weight": 2408,
+    "power": 90,
+    "year": 1972
+  },
+  {
+    "model": "ford pinto runabout",
+    "cylinders": 4,
+    "weight": 2226,
+    "power": 86,
+    "year": 1972
+  },
+  {
+    "model": "chevrolet impala",
+    "cylinders": 8,
+    "weight": 4274,
+    "power": 165,
+    "year": 1972
+  },
+  {
+    "model": "pontiac catalina",
+    "cylinders": 8,
+    "weight": 4385,
+    "power": 175,
+    "year": 1972
+  },
+  {
+    "model": "plymouth fury iii",
+    "cylinders": 8,
+    "weight": 4135,
+    "power": 150,
+    "year": 1972
+  },
+  {
+    "model": "ford galaxie 500",
+    "cylinders": 8,
+    "weight": 4129,
+    "power": 153,
+    "year": 1972
+  },
+  {
+    "model": "amc ambassador sst",
+    "cylinders": 8,
+    "weight": 3672,
+    "power": 150,
+    "year": 1972
+  },
+  {
+    "model": "mercury marquis",
+    "cylinders": 8,
+    "weight": 4633,
+    "power": 208,
+    "year": 1972
+  },
+  {
+    "model": "buick lesabre custom",
+    "cylinders": 8,
+    "weight": 4502,
+    "power": 155,
+    "year": 1972
+  },
+  {
+    "model": "oldsmobile delta 88 royale",
+    "cylinders": 8,
+    "weight": 4456,
+    "power": 160,
+    "year": 1972
+  },
+  {
+    "model": "chrysler newport royal",
+    "cylinders": 8,
+    "weight": 4422,
+    "power": 190,
+    "year": 1972
+  },
+  {
+    "model": "mazda rx2 coupe",
+    "cylinders": 3,
+    "weight": 2330,
+    "power": 97,
+    "year": 1972
+  },
+  {
+    "model": "amc matador (sw)",
+    "cylinders": 8,
+    "weight": 3892,
+    "power": 150,
+    "year": 1972
+  },
+  {
+    "model": "chevrolet chevelle concours (sw)",
+    "cylinders": 8,
+    "weight": 4098,
+    "power": 130,
+    "year": 1972
+  },
+  {
+    "model": "ford gran torino (sw)",
+    "cylinders": 8,
+    "weight": 4294,
+    "power": 140,
+    "year": 1972
+  },
+  {
+    "model": "plymouth satellite custom (sw)",
+    "cylinders": 8,
+    "weight": 4077,
+    "power": 150,
+    "year": 1972
+  },
+  {
+    "model": "volvo 145e (sw)",
+    "cylinders": 4,
+    "weight": 2933,
+    "power": 112,
+    "year": 1972
+  },
+  {
+    "model": "volkswagen 411 (sw)",
+    "cylinders": 4,
+    "weight": 2511,
+    "power": 76,
+    "year": 1972
+  },
+  {
+    "model": "peugeot 504 (sw)",
+    "cylinders": 4,
+    "weight": 2979,
+    "power": 87,
+    "year": 1972
+  },
+  {
+    "model": "renault 12 (sw)",
+    "cylinders": 4,
+    "weight": 2189,
+    "power": 69,
+    "year": 1972
+  },
+  {
+    "model": "ford pinto (sw)",
+    "cylinders": 4,
+    "weight": 2395,
+    "power": 86,
+    "year": 1972
+  },
+  {
+    "model": "datsun 510 (sw)",
+    "cylinders": 4,
+    "weight": 2288,
+    "power": 92,
+    "year": 1972
+  },
+  {
+    "model": "toyouta corona mark ii (sw)",
+    "cylinders": 4,
+    "weight": 2506,
+    "power": 97,
+    "year": 1972
+  },
+  {
+    "model": "dodge colt (sw)",
+    "cylinders": 4,
+    "weight": 2164,
+    "power": 80,
+    "year": 1972
+  },
+  {
+    "model": "toyota corolla 1600 (sw)",
+    "cylinders": 4,
+    "weight": 2100,
+    "power": 88,
+    "year": 1972
+  },
+  {
+    "model": "buick century 350",
+    "cylinders": 8,
+    "weight": 4100,
+    "power": 175,
+    "year": 1973
+  },
+  {
+    "model": "amc matador",
+    "cylinders": 8,
+    "weight": 3672,
+    "power": 150,
+    "year": 1973
+  },
+  {
+    "model": "chevrolet malibu",
+    "cylinders": 8,
+    "weight": 3988,
+    "power": 145,
+    "year": 1973
+  },
+  {
+    "model": "ford gran torino",
+    "cylinders": 8,
+    "weight": 4042,
+    "power": 137,
+    "year": 1973
+  },
+  {
+    "model": "dodge coronet custom",
+    "cylinders": 8,
+    "weight": 3777,
+    "power": 150,
+    "year": 1973
+  },
+  {
+    "model": "mercury marquis brougham",
+    "cylinders": 8,
+    "weight": 4952,
+    "power": 198,
+    "year": 1973
+  },
+  {
+    "model": "chevrolet caprice classic",
+    "cylinders": 8,
+    "weight": 4464,
+    "power": 150,
+    "year": 1973
+  },
+  {
+    "model": "ford ltd",
+    "cylinders": 8,
+    "weight": 4363,
+    "power": 158,
+    "year": 1973
+  },
+  {
+    "model": "plymouth fury gran sedan",
+    "cylinders": 8,
+    "weight": 4237,
+    "power": 150,
+    "year": 1973
+  },
+  {
+    "model": "chrysler new yorker brougham",
+    "cylinders": 8,
+    "weight": 4735,
+    "power": 215,
+    "year": 1973
+  },
+  {
+    "model": "buick electra 225 custom",
+    "cylinders": 8,
+    "weight": 4951,
+    "power": 225,
+    "year": 1973
+  },
+  {
+    "model": "amc ambassador brougham",
+    "cylinders": 8,
+    "weight": 3821,
+    "power": 175,
+    "year": 1973
+  },
+  {
+    "model": "plymouth valiant",
+    "cylinders": 6,
+    "weight": 3121,
+    "power": 105,
+    "year": 1973
+  },
+  {
+    "model": "chevrolet nova custom",
+    "cylinders": 6,
+    "weight": 3278,
+    "power": 100,
+    "year": 1973
+  },
+  {
+    "model": "amc hornet",
+    "cylinders": 6,
+    "weight": 2945,
+    "power": 100,
+    "year": 1973
+  },
+  {
+    "model": "ford maverick",
+    "cylinders": 6,
+    "weight": 3021,
+    "power": 88,
+    "year": 1973
+  },
+  {
+    "model": "plymouth duster",
+    "cylinders": 6,
+    "weight": 2904,
+    "power": 95,
+    "year": 1973
+  },
+  {
+    "model": "volkswagen super beetle",
+    "cylinders": 4,
+    "weight": 1950,
+    "power": 46,
+    "year": 1973
+  },
+  {
+    "model": "chevrolet impala",
+    "cylinders": 8,
+    "weight": 4997,
+    "power": 150,
+    "year": 1973
+  },
+  {
+    "model": "ford country",
+    "cylinders": 8,
+    "weight": 4906,
+    "power": 167,
+    "year": 1973
+  },
+  {
+    "model": "plymouth custom suburb",
+    "cylinders": 8,
+    "weight": 4654,
+    "power": 170,
+    "year": 1973
+  },
+  {
+    "model": "oldsmobile vista cruiser",
+    "cylinders": 8,
+    "weight": 4499,
+    "power": 180,
+    "year": 1973
+  },
+  {
+    "model": "amc gremlin",
+    "cylinders": 6,
+    "weight": 2789,
+    "power": 100,
+    "year": 1973
+  },
+  {
+    "model": "toyota carina",
+    "cylinders": 4,
+    "weight": 2279,
+    "power": 88,
+    "year": 1973
+  },
+  {
+    "model": "chevrolet vega",
+    "cylinders": 4,
+    "weight": 2401,
+    "power": 72,
+    "year": 1973
+  },
+  {
+    "model": "datsun 610",
+    "cylinders": 4,
+    "weight": 2379,
+    "power": 94,
+    "year": 1973
+  },
+  {
+    "model": "maxda rx3",
+    "cylinders": 3,
+    "weight": 2124,
+    "power": 90,
+    "year": 1973
+  },
+  {
+    "model": "ford pinto",
+    "cylinders": 4,
+    "weight": 2310,
+    "power": 85,
+    "year": 1973
+  },
+  {
+    "model": "mercury capri v6",
+    "cylinders": 6,
+    "weight": 2472,
+    "power": 107,
+    "year": 1973
+  },
+  {
+    "model": "fiat 124 sport coupe",
+    "cylinders": 4,
+    "weight": 2265,
+    "power": 90,
+    "year": 1973
+  },
+  {
+    "model": "chevrolet monte carlo s",
+    "cylinders": 8,
+    "weight": 4082,
+    "power": 145,
+    "year": 1973
+  },
+  {
+    "model": "pontiac grand prix",
+    "cylinders": 8,
+    "weight": 4278,
+    "power": 230,
+    "year": 1973
+  },
+  {
+    "model": "fiat 128",
+    "cylinders": 4,
+    "weight": 1867,
+    "power": 49,
+    "year": 1973
+  },
+  {
+    "model": "opel manta",
+    "cylinders": 4,
+    "weight": 2158,
+    "power": 75,
+    "year": 1973
+  },
+  {
+    "model": "audi 100ls",
+    "cylinders": 4,
+    "weight": 2582,
+    "power": 91,
+    "year": 1973
+  },
+  {
+    "model": "volvo 144ea",
+    "cylinders": 4,
+    "weight": 2868,
+    "power": 112,
+    "year": 1973
+  },
+  {
+    "model": "dodge dart custom",
+    "cylinders": 8,
+    "weight": 3399,
+    "power": 150,
+    "year": 1973
+  },
+  {
+    "model": "saab 99le",
+    "cylinders": 4,
+    "weight": 2660,
+    "power": 110,
+    "year": 1973
+  },
+  {
+    "model": "toyota mark ii",
+    "cylinders": 6,
+    "weight": 2807,
+    "power": 122,
+    "year": 1973
+  },
+  {
+    "model": "oldsmobile omega",
+    "cylinders": 8,
+    "weight": 3664,
+    "power": 180,
+    "year": 1973
+  },
+  {
+    "model": "plymouth duster",
+    "cylinders": 6,
+    "weight": 3102,
+    "power": 95,
+    "year": 1974
+  },
+  {
+    "model": "ford maverick",
+    "cylinders": 6,
+    "weight": 2875,
+    "power": null,
+    "year": 1974
+  },
+  {
+    "model": "amc hornet",
+    "cylinders": 6,
+    "weight": 2901,
+    "power": 100,
+    "year": 1974
+  },
+  {
+    "model": "chevrolet nova",
+    "cylinders": 6,
+    "weight": 3336,
+    "power": 100,
+    "year": 1974
+  },
+  {
+    "model": "datsun b210",
+    "cylinders": 4,
+    "weight": 1950,
+    "power": 67,
+    "year": 1974
+  },
+  {
+    "model": "ford pinto",
+    "cylinders": 4,
+    "weight": 2451,
+    "power": 80,
+    "year": 1974
+  },
+  {
+    "model": "toyota corolla 1200",
+    "cylinders": 4,
+    "weight": 1836,
+    "power": 65,
+    "year": 1974
+  },
+  {
+    "model": "chevrolet vega",
+    "cylinders": 4,
+    "weight": 2542,
+    "power": 75,
+    "year": 1974
+  },
+  {
+    "model": "chevrolet chevelle malibu classic",
+    "cylinders": 6,
+    "weight": 3781,
+    "power": 100,
+    "year": 1974
+  },
+  {
+    "model": "amc matador",
+    "cylinders": 6,
+    "weight": 3632,
+    "power": 110,
+    "year": 1974
+  },
+  {
+    "model": "plymouth satellite sebring",
+    "cylinders": 6,
+    "weight": 3613,
+    "power": 105,
+    "year": 1974
+  },
+  {
+    "model": "ford gran torino",
+    "cylinders": 8,
+    "weight": 4141,
+    "power": 140,
+    "year": 1974
+  },
+  {
+    "model": "buick century luxus (sw)",
+    "cylinders": 8,
+    "weight": 4699,
+    "power": 150,
+    "year": 1974
+  },
+  {
+    "model": "dodge coronet custom (sw)",
+    "cylinders": 8,
+    "weight": 4457,
+    "power": 150,
+    "year": 1974
+  },
+  {
+    "model": "ford gran torino (sw)",
+    "cylinders": 8,
+    "weight": 4638,
+    "power": 140,
+    "year": 1974
+  },
+  {
+    "model": "amc matador (sw)",
+    "cylinders": 8,
+    "weight": 4257,
+    "power": 150,
+    "year": 1974
+  },
+  {
+    "model": "audi fox",
+    "cylinders": 4,
+    "weight": 2219,
+    "power": 83,
+    "year": 1974
+  },
+  {
+    "model": "volkswagen dasher",
+    "cylinders": 4,
+    "weight": 1963,
+    "power": 67,
+    "year": 1974
+  },
+  {
+    "model": "opel manta",
+    "cylinders": 4,
+    "weight": 2300,
+    "power": 78,
+    "year": 1974
+  },
+  {
+    "model": "toyota corona",
+    "cylinders": 4,
+    "weight": 1649,
+    "power": 52,
+    "year": 1974
+  },
+  {
+    "model": "datsun 710",
+    "cylinders": 4,
+    "weight": 2003,
+    "power": 61,
+    "year": 1974
+  },
+  {
+    "model": "dodge colt",
+    "cylinders": 4,
+    "weight": 2125,
+    "power": 75,
+    "year": 1974
+  },
+  {
+    "model": "fiat 128",
+    "cylinders": 4,
+    "weight": 2108,
+    "power": 75,
+    "year": 1974
+  },
+  {
+    "model": "fiat 124 tc",
+    "cylinders": 4,
+    "weight": 2246,
+    "power": 75,
+    "year": 1974
+  },
+  {
+    "model": "honda civic",
+    "cylinders": 4,
+    "weight": 2489,
+    "power": 97,
+    "year": 1974
+  },
+  {
+    "model": "subaru",
+    "cylinders": 4,
+    "weight": 2391,
+    "power": 93,
+    "year": 1974
+  },
+  {
+    "model": "fiat x1.9",
+    "cylinders": 4,
+    "weight": 2000,
+    "power": 67,
+    "year": 1974
+  },
+  {
+    "model": "plymouth valiant custom",
+    "cylinders": 6,
+    "weight": 3264,
+    "power": 95,
+    "year": 1975
+  },
+  {
+    "model": "chevrolet nova",
+    "cylinders": 6,
+    "weight": 3459,
+    "power": 105,
+    "year": 1975
+  },
+  {
+    "model": "mercury monarch",
+    "cylinders": 6,
+    "weight": 3432,
+    "power": 72,
+    "year": 1975
+  },
+  {
+    "model": "ford maverick",
+    "cylinders": 6,
+    "weight": 3158,
+    "power": 72,
+    "year": 1975
+  },
+  {
+    "model": "pontiac catalina",
+    "cylinders": 8,
+    "weight": 4668,
+    "power": 170,
+    "year": 1975
+  },
+  {
+    "model": "chevrolet bel air",
+    "cylinders": 8,
+    "weight": 4440,
+    "power": 145,
+    "year": 1975
+  },
+  {
+    "model": "plymouth grand fury",
+    "cylinders": 8,
+    "weight": 4498,
+    "power": 150,
+    "year": 1975
+  },
+  {
+    "model": "ford ltd",
+    "cylinders": 8,
+    "weight": 4657,
+    "power": 148,
+    "year": 1975
+  },
+  {
+    "model": "buick century",
+    "cylinders": 6,
+    "weight": 3907,
+    "power": 110,
+    "year": 1975
+  },
+  {
+    "model": "chevroelt chevelle malibu",
+    "cylinders": 6,
+    "weight": 3897,
+    "power": 105,
+    "year": 1975
+  },
+  {
+    "model": "amc matador",
+    "cylinders": 6,
+    "weight": 3730,
+    "power": 110,
+    "year": 1975
+  },
+  {
+    "model": "plymouth fury",
+    "cylinders": 6,
+    "weight": 3785,
+    "power": 95,
+    "year": 1975
+  },
+  {
+    "model": "buick skyhawk",
+    "cylinders": 6,
+    "weight": 3039,
+    "power": 110,
+    "year": 1975
+  },
+  {
+    "model": "chevrolet monza 2+2",
+    "cylinders": 8,
+    "weight": 3221,
+    "power": 110,
+    "year": 1975
+  },
+  {
+    "model": "ford mustang ii",
+    "cylinders": 8,
+    "weight": 3169,
+    "power": 129,
+    "year": 1975
+  },
+  {
+    "model": "toyota corolla",
+    "cylinders": 4,
+    "weight": 2171,
+    "power": 75,
+    "year": 1975
+  },
+  {
+    "model": "ford pinto",
+    "cylinders": 4,
+    "weight": 2639,
+    "power": 83,
+    "year": 1975
+  },
+  {
+    "model": "amc gremlin",
+    "cylinders": 6,
+    "weight": 2914,
+    "power": 100,
+    "year": 1975
+  },
+  {
+    "model": "pontiac astro",
+    "cylinders": 4,
+    "weight": 2592,
+    "power": 78,
+    "year": 1975
+  },
+  {
+    "model": "toyota corona",
+    "cylinders": 4,
+    "weight": 2702,
+    "power": 96,
+    "year": 1975
+  },
+  {
+    "model": "volkswagen dasher",
+    "cylinders": 4,
+    "weight": 2223,
+    "power": 71,
+    "year": 1975
+  },
+  {
+    "model": "datsun 710",
+    "cylinders": 4,
+    "weight": 2545,
+    "power": 97,
+    "year": 1975
+  },
+  {
+    "model": "ford pinto",
+    "cylinders": 6,
+    "weight": 2984,
+    "power": 97,
+    "year": 1975
+  },
+  {
+    "model": "volkswagen rabbit",
+    "cylinders": 4,
+    "weight": 1937,
+    "power": 70,
+    "year": 1975
+  },
+  {
+    "model": "amc pacer",
+    "cylinders": 6,
+    "weight": 3211,
+    "power": 90,
+    "year": 1975
+  },
+  {
+    "model": "audi 100ls",
+    "cylinders": 4,
+    "weight": 2694,
+    "power": 95,
+    "year": 1975
+  },
+  {
+    "model": "peugeot 504",
+    "cylinders": 4,
+    "weight": 2957,
+    "power": 88,
+    "year": 1975
+  },
+  {
+    "model": "volvo 244dl",
+    "cylinders": 4,
+    "weight": 2945,
+    "power": 98,
+    "year": 1975
+  },
+  {
+    "model": "saab 99le",
+    "cylinders": 4,
+    "weight": 2671,
+    "power": 115,
+    "year": 1975
+  },
+  {
+    "model": "honda civic cvcc",
+    "cylinders": 4,
+    "weight": 1795,
+    "power": 53,
+    "year": 1975
+  },
+  {
+    "model": "fiat 131",
+    "cylinders": 4,
+    "weight": 2464,
+    "power": 86,
+    "year": 1976
+  },
+  {
+    "model": "opel 1900",
+    "cylinders": 4,
+    "weight": 2220,
+    "power": 81,
+    "year": 1976
+  },
+  {
+    "model": "capri ii",
+    "cylinders": 4,
+    "weight": 2572,
+    "power": 92,
+    "year": 1976
+  },
+  {
+    "model": "dodge colt",
+    "cylinders": 4,
+    "weight": 2255,
+    "power": 79,
+    "year": 1976
+  },
+  {
+    "model": "renault 12tl",
+    "cylinders": 4,
+    "weight": 2202,
+    "power": 83,
+    "year": 1976
+  },
+  {
+    "model": "chevrolet chevelle malibu classic",
+    "cylinders": 8,
+    "weight": 4215,
+    "power": 140,
+    "year": 1976
+  },
+  {
+    "model": "dodge coronet brougham",
+    "cylinders": 8,
+    "weight": 4190,
+    "power": 150,
+    "year": 1976
+  },
+  {
+    "model": "amc matador",
+    "cylinders": 8,
+    "weight": 3962,
+    "power": 120,
+    "year": 1976
+  },
+  {
+    "model": "ford gran torino",
+    "cylinders": 8,
+    "weight": 4215,
+    "power": 152,
+    "year": 1976
+  },
+  {
+    "model": "plymouth valiant",
+    "cylinders": 6,
+    "weight": 3233,
+    "power": 100,
+    "year": 1976
+  },
+  {
+    "model": "chevrolet nova",
+    "cylinders": 6,
+    "weight": 3353,
+    "power": 105,
+    "year": 1976
+  },
+  {
+    "model": "ford maverick",
+    "cylinders": 6,
+    "weight": 3012,
+    "power": 81,
+    "year": 1976
+  },
+  {
+    "model": "amc hornet",
+    "cylinders": 6,
+    "weight": 3085,
+    "power": 90,
+    "year": 1976
+  },
+  {
+    "model": "chevrolet chevette",
+    "cylinders": 4,
+    "weight": 2035,
+    "power": 52,
+    "year": 1976
+  },
+  {
+    "model": "chevrolet woody",
+    "cylinders": 4,
+    "weight": 2164,
+    "power": 60,
+    "year": 1976
+  },
+  {
+    "model": "vw rabbit",
+    "cylinders": 4,
+    "weight": 1937,
+    "power": 70,
+    "year": 1976
+  },
+  {
+    "model": "honda civic",
+    "cylinders": 4,
+    "weight": 1795,
+    "power": 53,
+    "year": 1976
+  },
+  {
+    "model": "dodge aspen se",
+    "cylinders": 6,
+    "weight": 3651,
+    "power": 100,
+    "year": 1976
+  },
+  {
+    "model": "ford granada ghia",
+    "cylinders": 6,
+    "weight": 3574,
+    "power": 78,
+    "year": 1976
+  },
+  {
+    "model": "pontiac ventura sj",
+    "cylinders": 6,
+    "weight": 3645,
+    "power": 110,
+    "year": 1976
+  },
+  {
+    "model": "amc pacer d/l",
+    "cylinders": 6,
+    "weight": 3193,
+    "power": 95,
+    "year": 1976
+  },
+  {
+    "model": "volkswagen rabbit",
+    "cylinders": 4,
+    "weight": 1825,
+    "power": 71,
+    "year": 1976
+  },
+  {
+    "model": "datsun b-210",
+    "cylinders": 4,
+    "weight": 1990,
+    "power": 70,
+    "year": 1976
+  },
+  {
+    "model": "toyota corolla",
+    "cylinders": 4,
+    "weight": 2155,
+    "power": 75,
+    "year": 1976
+  },
+  {
+    "model": "ford pinto",
+    "cylinders": 4,
+    "weight": 2565,
+    "power": 72,
+    "year": 1976
+  },
+  {
+    "model": "volvo 245",
+    "cylinders": 4,
+    "weight": 3150,
+    "power": 102,
+    "year": 1976
+  },
+  {
+    "model": "plymouth volare premier v8",
+    "cylinders": 8,
+    "weight": 3940,
+    "power": 150,
+    "year": 1976
+  },
+  {
+    "model": "peugeot 504",
+    "cylinders": 4,
+    "weight": 3270,
+    "power": 88,
+    "year": 1976
+  },
+  {
+    "model": "toyota mark ii",
+    "cylinders": 6,
+    "weight": 2930,
+    "power": 108,
+    "year": 1976
+  },
+  {
+    "model": "mercedes-benz 280s",
+    "cylinders": 6,
+    "weight": 3820,
+    "power": 120,
+    "year": 1976
+  },
+  {
+    "model": "cadillac seville",
+    "cylinders": 8,
+    "weight": 4380,
+    "power": 180,
+    "year": 1976
+  },
+  {
+    "model": "chevy c10",
+    "cylinders": 8,
+    "weight": 4055,
+    "power": 145,
+    "year": 1976
+  },
+  {
+    "model": "ford f108",
+    "cylinders": 8,
+    "weight": 3870,
+    "power": 130,
+    "year": 1976
+  },
+  {
+    "model": "dodge d100",
+    "cylinders": 8,
+    "weight": 3755,
+    "power": 150,
+    "year": 1976
+  },
+  {
+    "model": "honda Accelerationord cvcc",
+    "cylinders": 4,
+    "weight": 2045,
+    "power": 68,
+    "year": 1977
+  },
+  {
+    "model": "buick opel isuzu deluxe",
+    "cylinders": 4,
+    "weight": 2155,
+    "power": 80,
+    "year": 1977
+  },
+  {
+    "model": "renault 5 gtl",
+    "cylinders": 4,
+    "weight": 1825,
+    "power": 58,
+    "year": 1977
+  },
+  {
+    "model": "plymouth arrow gs",
+    "cylinders": 4,
+    "weight": 2300,
+    "power": 96,
+    "year": 1977
+  },
+  {
+    "model": "datsun f-10 hatchback",
+    "cylinders": 4,
+    "weight": 1945,
+    "power": 70,
+    "year": 1977
+  },
+  {
+    "model": "chevrolet caprice classic",
+    "cylinders": 8,
+    "weight": 3880,
+    "power": 145,
+    "year": 1977
+  },
+  {
+    "model": "oldsmobile cutlass supreme",
+    "cylinders": 8,
+    "weight": 4060,
+    "power": 110,
+    "year": 1977
+  },
+  {
+    "model": "dodge monaco brougham",
+    "cylinders": 8,
+    "weight": 4140,
+    "power": 145,
+    "year": 1977
+  },
+  {
+    "model": "mercury cougar brougham",
+    "cylinders": 8,
+    "weight": 4295,
+    "power": 130,
+    "year": 1977
+  },
+  {
+    "model": "chevrolet concours",
+    "cylinders": 6,
+    "weight": 3520,
+    "power": 110,
+    "year": 1977
+  },
+  {
+    "model": "buick skylark",
+    "cylinders": 6,
+    "weight": 3425,
+    "power": 105,
+    "year": 1977
+  },
+  {
+    "model": "plymouth volare custom",
+    "cylinders": 6,
+    "weight": 3630,
+    "power": 100,
+    "year": 1977
+  },
+  {
+    "model": "ford granada",
+    "cylinders": 6,
+    "weight": 3525,
+    "power": 98,
+    "year": 1977
+  },
+  {
+    "model": "pontiac grand prix lj",
+    "cylinders": 8,
+    "weight": 4220,
+    "power": 180,
+    "year": 1977
+  },
+  {
+    "model": "chevrolet monte carlo landau",
+    "cylinders": 8,
+    "weight": 4165,
+    "power": 170,
+    "year": 1977
+  },
+  {
+    "model": "chrysler cordoba",
+    "cylinders": 8,
+    "weight": 4325,
+    "power": 190,
+    "year": 1977
+  },
+  {
+    "model": "ford thunderbird",
+    "cylinders": 8,
+    "weight": 4335,
+    "power": 149,
+    "year": 1977
+  },
+  {
+    "model": "volkswagen rabbit custom",
+    "cylinders": 4,
+    "weight": 1940,
+    "power": 78,
+    "year": 1977
+  },
+  {
+    "model": "pontiac sunbird coupe",
+    "cylinders": 4,
+    "weight": 2740,
+    "power": 88,
+    "year": 1977
+  },
+  {
+    "model": "toyota corolla liftback",
+    "cylinders": 4,
+    "weight": 2265,
+    "power": 75,
+    "year": 1977
+  },
+  {
+    "model": "ford mustang ii 2+2",
+    "cylinders": 4,
+    "weight": 2755,
+    "power": 89,
+    "year": 1977
+  },
+  {
+    "model": "chevrolet chevette",
+    "cylinders": 4,
+    "weight": 2051,
+    "power": 63,
+    "year": 1977
+  },
+  {
+    "model": "dodge colt m/m",
+    "cylinders": 4,
+    "weight": 2075,
+    "power": 83,
+    "year": 1977
+  },
+  {
+    "model": "subaru dl",
+    "cylinders": 4,
+    "weight": 1985,
+    "power": 67,
+    "year": 1977
+  },
+  {
+    "model": "volkswagen dasher",
+    "cylinders": 4,
+    "weight": 2190,
+    "power": 78,
+    "year": 1977
+  },
+  {
+    "model": "datsun 810",
+    "cylinders": 6,
+    "weight": 2815,
+    "power": 97,
+    "year": 1977
+  },
+  {
+    "model": "bmw 320i",
+    "cylinders": 4,
+    "weight": 2600,
+    "power": 110,
+    "year": 1977
+  },
+  {
+    "model": "mazda rx-4",
+    "cylinders": 3,
+    "weight": 2720,
+    "power": 110,
+    "year": 1977
+  },
+  {
+    "model": "volkswagen rabbit custom diesel",
+    "cylinders": 4,
+    "weight": 1985,
+    "power": 48,
+    "year": 1978
+  },
+  {
+    "model": "ford fiesta",
+    "cylinders": 4,
+    "weight": 1800,
+    "power": 66,
+    "year": 1978
+  },
+  {
+    "model": "mazda glc deluxe",
+    "cylinders": 4,
+    "weight": 1985,
+    "power": 52,
+    "year": 1978
+  },
+  {
+    "model": "datsun b210 gx",
+    "cylinders": 4,
+    "weight": 2070,
+    "power": 70,
+    "year": 1978
+  },
+  {
+    "model": "honda civic cvcc",
+    "cylinders": 4,
+    "weight": 1800,
+    "power": 60,
+    "year": 1978
+  },
+  {
+    "model": "oldsmobile cutlass salon brougham",
+    "cylinders": 8,
+    "weight": 3365,
+    "power": 110,
+    "year": 1978
+  },
+  {
+    "model": "dodge diplomat",
+    "cylinders": 8,
+    "weight": 3735,
+    "power": 140,
+    "year": 1978
+  },
+  {
+    "model": "mercury monarch ghia",
+    "cylinders": 8,
+    "weight": 3570,
+    "power": 139,
+    "year": 1978
+  },
+  {
+    "model": "pontiac phoenix lj",
+    "cylinders": 6,
+    "weight": 3535,
+    "power": 105,
+    "year": 1978
+  },
+  {
+    "model": "chevrolet malibu",
+    "cylinders": 6,
+    "weight": 3155,
+    "power": 95,
+    "year": 1978
+  },
+  {
+    "model": "ford fairmont (auto)",
+    "cylinders": 6,
+    "weight": 2965,
+    "power": 85,
+    "year": 1978
+  },
+  {
+    "model": "ford fairmont (man)",
+    "cylinders": 4,
+    "weight": 2720,
+    "power": 88,
+    "year": 1978
+  },
+  {
+    "model": "plymouth volare",
+    "cylinders": 6,
+    "weight": 3430,
+    "power": 100,
+    "year": 1978
+  },
+  {
+    "model": "amc concord",
+    "cylinders": 6,
+    "weight": 3210,
+    "power": 90,
+    "year": 1978
+  },
+  {
+    "model": "buick century special",
+    "cylinders": 6,
+    "weight": 3380,
+    "power": 105,
+    "year": 1978
+  },
+  {
+    "model": "mercury zephyr",
+    "cylinders": 6,
+    "weight": 3070,
+    "power": 85,
+    "year": 1978
+  },
+  {
+    "model": "dodge aspen",
+    "cylinders": 6,
+    "weight": 3620,
+    "power": 110,
+    "year": 1978
+  },
+  {
+    "model": "amc concord d/l",
+    "cylinders": 6,
+    "weight": 3410,
+    "power": 120,
+    "year": 1978
+  },
+  {
+    "model": "chevrolet monte carlo landau",
+    "cylinders": 8,
+    "weight": 3425,
+    "power": 145,
+    "year": 1978
+  },
+  {
+    "model": "buick regal sport coupe (turbo)",
+    "cylinders": 6,
+    "weight": 3445,
+    "power": 165,
+    "year": 1978
+  },
+  {
+    "model": "ford futura",
+    "cylinders": 8,
+    "weight": 3205,
+    "power": 139,
+    "year": 1978
+  },
+  {
+    "model": "dodge magnum xe",
+    "cylinders": 8,
+    "weight": 4080,
+    "power": 140,
+    "year": 1978
+  },
+  {
+    "model": "chevrolet chevette",
+    "cylinders": 4,
+    "weight": 2155,
+    "power": 68,
+    "year": 1978
+  },
+  {
+    "model": "toyota corona",
+    "cylinders": 4,
+    "weight": 2560,
+    "power": 95,
+    "year": 1978
+  },
+  {
+    "model": "datsun 510",
+    "cylinders": 4,
+    "weight": 2300,
+    "power": 97,
+    "year": 1978
+  },
+  {
+    "model": "dodge omni",
+    "cylinders": 4,
+    "weight": 2230,
+    "power": 75,
+    "year": 1978
+  },
+  {
+    "model": "toyota celica gt liftback",
+    "cylinders": 4,
+    "weight": 2515,
+    "power": 95,
+    "year": 1978
+  },
+  {
+    "model": "plymouth sapporo",
+    "cylinders": 4,
+    "weight": 2745,
+    "power": 105,
+    "year": 1978
+  },
+  {
+    "model": "oldsmobile starfire sx",
+    "cylinders": 4,
+    "weight": 2855,
+    "power": 85,
+    "year": 1978
+  },
+  {
+    "model": "datsun 200-sx",
+    "cylinders": 4,
+    "weight": 2405,
+    "power": 97,
+    "year": 1978
+  },
+  {
+    "model": "audi 5000",
+    "cylinders": 5,
+    "weight": 2830,
+    "power": 103,
+    "year": 1978
+  },
+  {
+    "model": "volvo 264gl",
+    "cylinders": 6,
+    "weight": 3140,
+    "power": 125,
+    "year": 1978
+  },
+  {
+    "model": "saab 99gle",
+    "cylinders": 4,
+    "weight": 2795,
+    "power": 115,
+    "year": 1978
+  },
+  {
+    "model": "peugeot 604sl",
+    "cylinders": 6,
+    "weight": 3410,
+    "power": 133,
+    "year": 1978
+  },
+  {
+    "model": "volkswagen scirocco",
+    "cylinders": 4,
+    "weight": 1990,
+    "power": 71,
+    "year": 1978
+  },
+  {
+    "model": "honda Accelerationord lx",
+    "cylinders": 4,
+    "weight": 2135,
+    "power": 68,
+    "year": 1978
+  },
+  {
+    "model": "pontiac lemans v6",
+    "cylinders": 6,
+    "weight": 3245,
+    "power": 115,
+    "year": 1979
+  },
+  {
+    "model": "mercury zephyr 6",
+    "cylinders": 6,
+    "weight": 2990,
+    "power": 85,
+    "year": 1979
+  },
+  {
+    "model": "ford fairmont 4",
+    "cylinders": 4,
+    "weight": 2890,
+    "power": 88,
+    "year": 1979
+  },
+  {
+    "model": "amc concord dl 6",
+    "cylinders": 6,
+    "weight": 3265,
+    "power": 90,
+    "year": 1979
+  },
+  {
+    "model": "dodge aspen 6",
+    "cylinders": 6,
+    "weight": 3360,
+    "power": 110,
+    "year": 1979
+  },
+  {
+    "model": "chevrolet caprice classic",
+    "cylinders": 8,
+    "weight": 3840,
+    "power": 130,
+    "year": 1979
+  },
+  {
+    "model": "ford ltd landau",
+    "cylinders": 8,
+    "weight": 3725,
+    "power": 129,
+    "year": 1979
+  },
+  {
+    "model": "mercury grand marquis",
+    "cylinders": 8,
+    "weight": 3955,
+    "power": 138,
+    "year": 1979
+  },
+  {
+    "model": "dodge st. regis",
+    "cylinders": 8,
+    "weight": 3830,
+    "power": 135,
+    "year": 1979
+  },
+  {
+    "model": "buick estate wagon (sw)",
+    "cylinders": 8,
+    "weight": 4360,
+    "power": 155,
+    "year": 1979
+  },
+  {
+    "model": "ford country squire (sw)",
+    "cylinders": 8,
+    "weight": 4054,
+    "power": 142,
+    "year": 1979
+  },
+  {
+    "model": "chevrolet malibu classic (sw)",
+    "cylinders": 8,
+    "weight": 3605,
+    "power": 125,
+    "year": 1979
+  },
+  {
+    "model": "chrysler lebaron town @ country (sw)",
+    "cylinders": 8,
+    "weight": 3940,
+    "power": 150,
+    "year": 1979
+  },
+  {
+    "model": "vw rabbit custom",
+    "cylinders": 4,
+    "weight": 1925,
+    "power": 71,
+    "year": 1979
+  },
+  {
+    "model": "maxda glc deluxe",
+    "cylinders": 4,
+    "weight": 1975,
+    "power": 65,
+    "year": 1979
+  },
+  {
+    "model": "dodge colt hatchback custom",
+    "cylinders": 4,
+    "weight": 1915,
+    "power": 80,
+    "year": 1979
+  },
+  {
+    "model": "amc spirit dl",
+    "cylinders": 4,
+    "weight": 2670,
+    "power": 80,
+    "year": 1979
+  },
+  {
+    "model": "mercedes benz 300d",
+    "cylinders": 5,
+    "weight": 3530,
+    "power": 77,
+    "year": 1979
+  },
+  {
+    "model": "cadillac eldorado",
+    "cylinders": 8,
+    "weight": 3900,
+    "power": 125,
+    "year": 1979
+  },
+  {
+    "model": "peugeot 504",
+    "cylinders": 4,
+    "weight": 3190,
+    "power": 71,
+    "year": 1979
+  },
+  {
+    "model": "oldsmobile cutlass salon brougham",
+    "cylinders": 8,
+    "weight": 3420,
+    "power": 90,
+    "year": 1979
+  },
+  {
+    "model": "plymouth horizon",
+    "cylinders": 4,
+    "weight": 2200,
+    "power": 70,
+    "year": 1979
+  },
+  {
+    "model": "plymouth horizon tc3",
+    "cylinders": 4,
+    "weight": 2150,
+    "power": 70,
+    "year": 1979
+  },
+  {
+    "model": "datsun 210",
+    "cylinders": 4,
+    "weight": 2020,
+    "power": 65,
+    "year": 1979
+  },
+  {
+    "model": "fiat strada custom",
+    "cylinders": 4,
+    "weight": 2130,
+    "power": 69,
+    "year": 1979
+  },
+  {
+    "model": "buick skylark limited",
+    "cylinders": 4,
+    "weight": 2670,
+    "power": 90,
+    "year": 1979
+  },
+  {
+    "model": "chevrolet citation",
+    "cylinders": 6,
+    "weight": 2595,
+    "power": 115,
+    "year": 1979
+  },
+  {
+    "model": "oldsmobile omega brougham",
+    "cylinders": 6,
+    "weight": 2700,
+    "power": 115,
+    "year": 1979
+  },
+  {
+    "model": "pontiac phoenix",
+    "cylinders": 4,
+    "weight": 2556,
+    "power": 90,
+    "year": 1979
+  },
+  {
+    "model": "vw rabbit",
+    "cylinders": 4,
+    "weight": 2144,
+    "power": 76,
+    "year": 1980
+  },
+  {
+    "model": "toyota corolla tercel",
+    "cylinders": 4,
+    "weight": 1968,
+    "power": 60,
+    "year": 1980
+  },
+  {
+    "model": "chevrolet chevette",
+    "cylinders": 4,
+    "weight": 2120,
+    "power": 70,
+    "year": 1980
+  },
+  {
+    "model": "datsun 310",
+    "cylinders": 4,
+    "weight": 2019,
+    "power": 65,
+    "year": 1980
+  },
+  {
+    "model": "chevrolet citation",
+    "cylinders": 4,
+    "weight": 2678,
+    "power": 90,
+    "year": 1980
+  },
+  {
+    "model": "ford fairmont",
+    "cylinders": 4,
+    "weight": 2870,
+    "power": 88,
+    "year": 1980
+  },
+  {
+    "model": "amc concord",
+    "cylinders": 4,
+    "weight": 3003,
+    "power": 90,
+    "year": 1980
+  },
+  {
+    "model": "dodge aspen",
+    "cylinders": 6,
+    "weight": 3381,
+    "power": 90,
+    "year": 1980
+  },
+  {
+    "model": "audi 4000",
+    "cylinders": 4,
+    "weight": 2188,
+    "power": 78,
+    "year": 1980
+  },
+  {
+    "model": "toyota corona liftback",
+    "cylinders": 4,
+    "weight": 2711,
+    "power": 90,
+    "year": 1980
+  },
+  {
+    "model": "mazda 626",
+    "cylinders": 4,
+    "weight": 2542,
+    "power": 75,
+    "year": 1980
+  },
+  {
+    "model": "datsun 510 hatchback",
+    "cylinders": 4,
+    "weight": 2434,
+    "power": 92,
+    "year": 1980
+  },
+  {
+    "model": "toyota corolla",
+    "cylinders": 4,
+    "weight": 2265,
+    "power": 75,
+    "year": 1980
+  },
+  {
+    "model": "mazda glc",
+    "cylinders": 4,
+    "weight": 2110,
+    "power": 65,
+    "year": 1980
+  },
+  {
+    "model": "dodge colt",
+    "cylinders": 4,
+    "weight": 2800,
+    "power": 105,
+    "year": 1980
+  },
+  {
+    "model": "datsun 210",
+    "cylinders": 4,
+    "weight": 2110,
+    "power": 65,
+    "year": 1980
+  },
+  {
+    "model": "vw rabbit c (diesel)",
+    "cylinders": 4,
+    "weight": 2085,
+    "power": 48,
+    "year": 1980
+  },
+  {
+    "model": "vw dasher (diesel)",
+    "cylinders": 4,
+    "weight": 2335,
+    "power": 48,
+    "year": 1980
+  },
+  {
+    "model": "audi 5000s (diesel)",
+    "cylinders": 5,
+    "weight": 2950,
+    "power": 67,
+    "year": 1980
+  },
+  {
+    "model": "mercedes-benz 240d",
+    "cylinders": 4,
+    "weight": 3250,
+    "power": 67,
+    "year": 1980
+  },
+  {
+    "model": "honda civic 1500 gl",
+    "cylinders": 4,
+    "weight": 1850,
+    "power": 67,
+    "year": 1980
+  },
+  {
+    "model": "renault lecar deluxe",
+    "cylinders": 4,
+    "weight": 1835,
+    "power": null,
+    "year": 1980
+  },
+  {
+    "model": "subaru dl",
+    "cylinders": 4,
+    "weight": 2145,
+    "power": 67,
+    "year": 1980
+  },
+  {
+    "model": "vokswagen rabbit",
+    "cylinders": 4,
+    "weight": 1845,
+    "power": 62,
+    "year": 1980
+  },
+  {
+    "model": "datsun 280-zx",
+    "cylinders": 6,
+    "weight": 2910,
+    "power": 132,
+    "year": 1980
+  },
+  {
+    "model": "mazda rx-7 gs",
+    "cylinders": 3,
+    "weight": 2420,
+    "power": 100,
+    "year": 1980
+  },
+  {
+    "model": "triumph tr7 coupe",
+    "cylinders": 4,
+    "weight": 2500,
+    "power": 88,
+    "year": 1980
+  },
+  {
+    "model": "ford mustang cobra",
+    "cylinders": 4,
+    "weight": 2905,
+    "power": null,
+    "year": 1980
+  },
+  {
+    "model": "honda Accelerationord",
+    "cylinders": 4,
+    "weight": 2290,
+    "power": 72,
+    "year": 1980
+  },
+  {
+    "model": "plymouth reliant",
+    "cylinders": 4,
+    "weight": 2490,
+    "power": 84,
+    "year": 1982
+  },
+  {
+    "model": "buick skylark",
+    "cylinders": 4,
+    "weight": 2635,
+    "power": 84,
+    "year": 1982
+  },
+  {
+    "model": "dodge aries wagon (sw)",
+    "cylinders": 4,
+    "weight": 2620,
+    "power": 92,
+    "year": 1982
+  },
+  {
+    "model": "chevrolet citation",
+    "cylinders": 6,
+    "weight": 2725,
+    "power": 110,
+    "year": 1982
+  },
+  {
+    "model": "plymouth reliant",
+    "cylinders": 4,
+    "weight": 2385,
+    "power": 84,
+    "year": 1982
+  },
+  {
+    "model": "toyota starlet",
+    "cylinders": 4,
+    "weight": 1755,
+    "power": 58,
+    "year": 1982
+  },
+  {
+    "model": "plymouth champ",
+    "cylinders": 4,
+    "weight": 1875,
+    "power": 64,
+    "year": 1982
+  },
+  {
+    "model": "honda civic 1300",
+    "cylinders": 4,
+    "weight": 1760,
+    "power": 60,
+    "year": 1982
+  },
+  {
+    "model": "subaru",
+    "cylinders": 4,
+    "weight": 2065,
+    "power": 67,
+    "year": 1982
+  },
+  {
+    "model": "datsun 210",
+    "cylinders": 4,
+    "weight": 1975,
+    "power": 65,
+    "year": 1982
+  },
+  {
+    "model": "toyota tercel",
+    "cylinders": 4,
+    "weight": 2050,
+    "power": 62,
+    "year": 1982
+  },
+  {
+    "model": "mazda glc 4",
+    "cylinders": 4,
+    "weight": 1985,
+    "power": 68,
+    "year": 1982
+  },
+  {
+    "model": "plymouth horizon 4",
+    "cylinders": 4,
+    "weight": 2215,
+    "power": 63,
+    "year": 1982
+  },
+  {
+    "model": "ford escort 4w",
+    "cylinders": 4,
+    "weight": 2045,
+    "power": 65,
+    "year": 1982
+  },
+  {
+    "model": "ford escort 2h",
+    "cylinders": 4,
+    "weight": 2380,
+    "power": 65,
+    "year": 1982
+  },
+  {
+    "model": "volkswagen jetta",
+    "cylinders": 4,
+    "weight": 2190,
+    "power": 74,
+    "year": 1982
+  },
+  {
+    "model": "renault 18i",
+    "cylinders": 4,
+    "weight": 2320,
+    "power": null,
+    "year": 1982
+  },
+  {
+    "model": "honda prelude",
+    "cylinders": 4,
+    "weight": 2210,
+    "power": 75,
+    "year": 1982
+  },
+  {
+    "model": "toyota corolla",
+    "cylinders": 4,
+    "weight": 2350,
+    "power": 75,
+    "year": 1982
+  },
+  {
+    "model": "datsun 200sx",
+    "cylinders": 4,
+    "weight": 2615,
+    "power": 100,
+    "year": 1982
+  },
+  {
+    "model": "mazda 626",
+    "cylinders": 4,
+    "weight": 2635,
+    "power": 74,
+    "year": 1982
+  },
+  {
+    "model": "peugeot 505s turbo diesel",
+    "cylinders": 4,
+    "weight": 3230,
+    "power": 80,
+    "year": 1982
+  },
+  {
+    "model": "saab 900s",
+    "cylinders": 4,
+    "weight": 2800,
+    "power": 110,
+    "year": 1982
+  },
+  {
+    "model": "volvo diesel",
+    "cylinders": 6,
+    "weight": 3160,
+    "power": 76,
+    "year": 1982
+  },
+  {
+    "model": "toyota cressida",
+    "cylinders": 6,
+    "weight": 2900,
+    "power": 116,
+    "year": 1982
+  },
+  {
+    "model": "datsun 810 maxima",
+    "cylinders": 6,
+    "weight": 2930,
+    "power": 120,
+    "year": 1982
+  },
+  {
+    "model": "buick century",
+    "cylinders": 6,
+    "weight": 3415,
+    "power": 110,
+    "year": 1982
+  },
+  {
+    "model": "oldsmobile cutlass ls",
+    "cylinders": 8,
+    "weight": 3725,
+    "power": 105,
+    "year": 1982
+  },
+  {
+    "model": "ford granada gl",
+    "cylinders": 6,
+    "weight": 3060,
+    "power": 88,
+    "year": 1982
+  },
+  {
+    "model": "chrysler lebaron salon",
+    "cylinders": 6,
+    "weight": 3465,
+    "power": 85,
+    "year": 1982
+  },
+  {
+    "model": "chevrolet cavalier",
+    "cylinders": 4,
+    "weight": 2605,
+    "power": 88,
+    "year": 1982
+  },
+  {
+    "model": "chevrolet cavalier wagon",
+    "cylinders": 4,
+    "weight": 2640,
+    "power": 88,
+    "year": 1982
+  },
+  {
+    "model": "chevrolet cavalier 2-door",
+    "cylinders": 4,
+    "weight": 2395,
+    "power": 88,
+    "year": 1982
+  },
+  {
+    "model": "pontiac j2000 se hatchback",
+    "cylinders": 4,
+    "weight": 2575,
+    "power": 85,
+    "year": 1982
+  },
+  {
+    "model": "dodge aries se",
+    "cylinders": 4,
+    "weight": 2525,
+    "power": 84,
+    "year": 1982
+  },
+  {
+    "model": "pontiac phoenix",
+    "cylinders": 4,
+    "weight": 2735,
+    "power": 90,
+    "year": 1982
+  },
+  {
+    "model": "ford fairmont futura",
+    "cylinders": 4,
+    "weight": 2865,
+    "power": 92,
+    "year": 1982
+  },
+  {
+    "model": "amc concord dl",
+    "cylinders": 4,
+    "weight": 3035,
+    "power": null,
+    "year": 1982
+  },
+  {
+    "model": "volkswagen rabbit l",
+    "cylinders": 4,
+    "weight": 1980,
+    "power": 74,
+    "year": 1982
+  },
+  {
+    "model": "mazda glc custom l",
+    "cylinders": 4,
+    "weight": 2025,
+    "power": 68,
+    "year": 1982
+  },
+  {
+    "model": "mazda glc custom",
+    "cylinders": 4,
+    "weight": 1970,
+    "power": 68,
+    "year": 1982
+  },
+  {
+    "model": "plymouth horizon miser",
+    "cylinders": 4,
+    "weight": 2125,
+    "power": 63,
+    "year": 1982
+  },
+  {
+    "model": "mercury lynx l",
+    "cylinders": 4,
+    "weight": 2125,
+    "power": 70,
+    "year": 1982
+  },
+  {
+    "model": "nissan stanza xe",
+    "cylinders": 4,
+    "weight": 2160,
+    "power": 88,
+    "year": 1982
+  },
+  {
+    "model": "honda Accelerationord",
+    "cylinders": 4,
+    "weight": 2205,
+    "power": 75,
+    "year": 1982
+  },
+  {
+    "model": "toyota corolla",
+    "cylinders": 4,
+    "weight": 2245,
+    "power": 70,
+    "year": 1982
+  },
+  {
+    "model": "honda civic",
+    "cylinders": 4,
+    "weight": 1965,
+    "power": 67,
+    "year": 1982
+  },
+  {
+    "model": "honda civic (auto)",
+    "cylinders": 4,
+    "weight": 1965,
+    "power": 67,
+    "year": 1982
+  },
+  {
+    "model": "datsun 310 gx",
+    "cylinders": 4,
+    "weight": 1995,
+    "power": 67,
+    "year": 1982
+  },
+  {
+    "model": "buick century limited",
+    "cylinders": 6,
+    "weight": 2945,
+    "power": 110,
+    "year": 1982
+  },
+  {
+    "model": "oldsmobile cutlass ciera (diesel)",
+    "cylinders": 6,
+    "weight": 3015,
+    "power": 85,
+    "year": 1982
+  },
+  {
+    "model": "chrysler lebaron medallion",
+    "cylinders": 4,
+    "weight": 2585,
+    "power": 92,
+    "year": 1982
+  },
+  {
+    "model": "ford granada l",
+    "cylinders": 6,
+    "weight": 2835,
+    "power": 112,
+    "year": 1982
+  },
+  {
+    "model": "toyota celica gt",
+    "cylinders": 4,
+    "weight": 2665,
+    "power": 96,
+    "year": 1982
+  },
+  {
+    "model": "dodge charger 2.2",
+    "cylinders": 4,
+    "weight": 2370,
+    "power": 84,
+    "year": 1982
+  },
+  {
+    "model": "chevrolet camaro",
+    "cylinders": 4,
+    "weight": 2950,
+    "power": 90,
+    "year": 1982
+  },
+  {
+    "model": "ford mustang gl",
+    "cylinders": 4,
+    "weight": 2790,
+    "power": 86,
+    "year": 1982
+  },
+  {
+    "model": "vw pickup",
+    "cylinders": 4,
+    "weight": 2130,
+    "power": 52,
+    "year": 1982
+  },
+  {
+    "model": "dodge rampage",
+    "cylinders": 4,
+    "weight": 2295,
+    "power": 84,
+    "year": 1982
+  },
+  {
+    "model": "ford ranger",
+    "cylinders": 4,
+    "weight": 2625,
+    "power": 79,
+    "year": 1982
+  },
+  {
+    "model": "chevy s-10",
+    "cylinders": 4,
+    "weight": 2720,
+    "power": 82,
+    "year": 1982
+  }
+]

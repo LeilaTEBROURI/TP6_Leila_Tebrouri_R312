@@ -8,7 +8,7 @@ const species = [...new Set(penguins.map((penguin) => penguin.species))];
 <Layout>
   <main id="contenu">
     <p class="eyebrow">03 · Rendu statique</p>
-    <h1 >Penguins — rendu statique</h1>
+    <h1>Penguins — rendu statique</h1>
     <ul>
       {species.map((name) => (
         <li><a class="page-link" href={`/rendu-statique/${name}`}>{name}</a></li>
